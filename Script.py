@@ -19,7 +19,7 @@ Thats All, i will Provide Movies There in File Format...🤓🤪
 ○  it's Note Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
+This methord works on any chat, Just type @a_to_z_movie_filter_bot and then leave a space and search any movie you want...
 
 ○ Available Commands
      
@@ -46,7 +46,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Source - https://github.com/Ankur12321/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Bamel_Shan>ᴀᴍ_ᴛᴇᴄʜ</a>"""
@@ -101,7 +101,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of FilterBot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
