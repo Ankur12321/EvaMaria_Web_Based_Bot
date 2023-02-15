@@ -45,11 +45,11 @@ This methord works on any chat, Just type @a_to_z_movie_filter_bot and then leav
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/Ankur12321/EvaMaria  
+- Its Source Code is a Private source project. 
+- Source - To Buy Source Code DM :- Bamel_Shab  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Bamel_Shan>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/Bamel_Shab>DEVELOPER</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
