@@ -754,8 +754,8 @@ async def advantage_spell_chok(msg):
     user = msg.from_user.id if msg.from_user else 0
     movielist = []
     gs_parsed = list(dict.fromkeys(gs_parsed))  # removing duplicates https://stackoverflow.com/a/7961425
-    if len(gs_parsed) > 1:
-        gs_parsed = gs_parsed[:1]
+    if len(gs_parsed) > 3:
+        gs_parsed = gs_parsed[:3]
     if gs_parsed:
         for mov in gs_parsed:
             imdb_s = await get_poster(mov.strip(), bulk=True)  # searching each keyword in imdb
